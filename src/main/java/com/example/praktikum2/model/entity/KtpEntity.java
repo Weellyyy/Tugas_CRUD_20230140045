@@ -1,4 +1,4 @@
-package com.example.praktikum2.entity;
+package com.example.praktikum2.model.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,4 +1,4 @@
-package com.example.praktikum2.dto;
+package com.example.praktikum2.model.dto;
 
 import lombok.Data;
 import java.util.Date;
